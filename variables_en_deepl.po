@@ -1,0 +1,949 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: $ daysn_text
+msgid "Понедельник"
+msgstr "Monday"
+
+#: $ daysn_text
+msgid "Вторник"
+msgstr "Tuesday"
+
+#: $ daysn_text
+msgid "Среда"
+msgstr "Wednesday"
+
+#: $ daysn_text
+msgid "Четверг"
+msgstr "Thursday"
+
+#: $ daysn_text
+msgid "Пятница"
+msgstr "Friday"
+
+#: $ daysn_text
+msgid "Суббота"
+msgstr "Saturday"
+
+#: $ daysn_text
+msgid "Воскресение"
+msgstr "Sunday"
+
+#: $ location_text
+msgid "Дом: Моя комната"
+msgstr "Home: My Room"
+
+#: $ location_text
+msgid "Дом: Комната Алисы"
+msgstr "Home: Alice's Room"
+
+#: $ location_text
+msgid "Дом: Комната Мамы"
+msgstr "Home: Mom's Room"
+
+#: $ location_text
+msgid "Дом: Ванная"
+msgstr "Home: Bathroom"
+
+#: $ location_text
+msgid "Дом: Гостиная"
+msgstr "Home: Lounge"
+
+#: $ location_text
+msgid "Дом: Веранда"
+msgstr "Home: Terrace"
+
+#: $ location_text
+msgid "Дом: Бассейн"
+msgstr "Home: Pool"
+
+#: $ location_text
+msgid "Порно-студия"
+msgstr "DeepL: Porn Studio"
+
+#: $ item_spider.name
+msgid "ПАУК"
+msgstr "SPIDER"
+
+#: $ item_spider.desc
+msgid "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
+msgstr "The scariest creature ever. From Alice's point of view anyways. I should use this at the right time!"
+
+#: $ item_wallet.name
+msgid "БУМАЖНИК ЭРИКА"
+msgstr "ERIC'S WALLET"
+
+#: $ item_wallet.desc
+msgid "Внутри лежат любопытные права с фотографией Эрика на имя какого-то Виктора Моро."
+msgstr "There is some interesting ID inside. It has a picture of Eric, but the name is Victor Moro."
+
+#: $ item_littleblackdress.name
+msgid "МАЛЕНЬКОЕ ЧЕРНОЕ ПЛАТЬЕ"
+msgstr "LITTLE BLACK DRESS"
+
+#: $ item_littleblackdress.desc
+msgid "Отличный подарок для девушки, желающей произвести фурор на вечеринке или дискотеке."
+msgstr "Great gift for a girl who wants to make an impression at the party."
+
+#: $ item_swimsuitliza.name
+msgid "КУПАЛЬНИК КРАСНЫЙ"
+msgstr "RED SWIMSUIT"
+
+#: $ item_swimsuitliza.desc
+msgid "Купальник для тех, кто не стесняется своего тела. Скрывает только самые интимные участки. Всё остальное открыто для солнца и глаз окружающих."
+msgstr "Swimsuit for those who are not shy about their bodies. Hides only the most intimate areas. Everything else is open to the sun and the eyes."
+
+#: $ item_bathrobe.name
+msgid "ШЕЛКОВЫЙ ХАЛАТ"
+msgstr "SILK BATHROBE"
+
+#: $ item_bathrobe.desc
+msgid "Короткий, лёгкий, почти шёлковый халат высшего качества. Made in China."
+msgstr "Short, light, silk bathrobe. Great quality! Made in China."
+
+#: $ item_partydress.name
+msgid "ЧЕРНОЕ ПЛАТЬЕ"
+msgstr "BLACK DRESS"
+
+#: $ item_partydress.desc
+msgid "Очень короткое чёрное платье. Подойдёт любой моднице или тусовщице."
+msgstr "Short black dress. Great for parties."
+
+#: $ item_blackunderwear.name
+msgid "КОМПЛЕКТ НИЖНЕГО БЕЛЬЯ"
+msgstr "SET OF BLACK LINGERIE"
+
+#: $ item_blackunderwear.desc
+msgid "Отличное нижнее бельё черного цвета. Отличный подарок любимой девушке."
+msgstr "Great lingerie, black. A perfect present for for the woman you love."
+
+#: $ item_lingerie.name
+msgid "ЧЁРНОЕ БОДИ"
+msgstr "BLACK BODY"
+
+#: $ item_lingerie.desc
+msgid "Очень сексуальный наряд для особых случаев. В комплект к боди верхняя часть не входит."
+msgstr "Sexy outfit for a special occasion. Top part not included."
+
+#: $ item_sto.name
+msgid "ЧЕРНЫЕ ЧУЛКИ"
+msgstr "BLACK STOCKINGS"
+
+#: $ item_sto.desc
+msgid "Сексуальные чулки чёрного цвета для очень важных случаев."
+msgstr "Sexy black stockings for a special occasion."
+
+#: $ item_sho.name
+msgid "ТУФЛИ НА ВЫСОКОМ КАБЛУКЕ"
+msgstr "HIGH HEELS"
+
+#: $ item_sho.desc
+msgid "Сексуальные чёрные туфли. Отлично подойдут к кружевному белью или вечернему платью."
+msgstr "Sexy black shoes. Will go great with lace lingerie or with an evening gown."
+
+#: $ item_uni.name
+msgid "ОСОБАЯ ШКОЛЬНАЯ ФОРМА"
+msgstr "SLUTTY SCHOOL UNIFORM"
+
+#: $ item_uni.desc
+msgid "Сексуальная школьная форма для ролевых игр. Рекомендуется для лиц от 18 лет и старше."
+msgstr "Slutty school uniform for role-playing. 18+"
+
+#: $ item_jewelry_1.name
+msgid "СЕРЬГИ С БРИЛЛИАНТАМИ"
+msgstr "DIAMOND EARRINGS"
+
+#: $ item_jewelry_1.desc
+msgid "Это украшение подойдёт любой девушке. Золото 900 пробы. Бриллианты."
+msgstr "This jewelry will suit any lady. 22 karat gold. Diamonds."
+
+#: $ item_jewelry_2.name
+msgid "КОЛЬЦО С БРИЛЛИАНТАМИ"
+msgstr "DIAMOND RING"
+
+#: $ item_jewelry_2.desc
+msgid "Это украшение подойдёт любой девушке. Золото 900 пробы. Бриллианты."
+msgstr "This jewelry will suit any lady. 22 karat gold. Diamonds."
+
+#: $ item_jewelry_3.name
+msgid "ЗОЛОТАЯ ЦЕПОЧКА"
+msgstr "GOLDEN NECKLACE"
+
+#: $ item_jewelry_3.desc
+msgid "Это украшение подойдёт любой девушке. Золото 900 пробы."
+msgstr "This jewelry will suit any lady. 22 karat gold."
+
+#: $ item_jewelry_4.name
+msgid "КУЛОН С БРИЛЛИАНТОМ"
+msgstr "DIAMOND PENDANT"
+
+#: $ item_jewelry_4.desc
+msgid "Это украшение подойдёт любой девушке. Золото 900 пробы. Бриллиант."
+msgstr "This jewelry will suit any lady. 22 karat gold. Diamonds."
+
+#: $ item_jewelry_5.name
+msgid "БРАСЛЕТ С БРИЛЛИАНТАМИ"
+msgstr "DIAMOND BRACELET"
+
+#: $ item_jewelry_5.desc
+msgid "Это украшение подойдёт любой девушке. Золото 900 пробы."
+msgstr "This jewelry will suit any lady. 22 karat gold."
+
+#: $ item_jewelry_6.name
+msgid "ЗОЛОТЫЕ ЧАСЫ"
+msgstr "GOLDEN CLOCK"
+
+#: $ item_jewelry_6.desc
+msgid "Это украшение подойдёт любой девушке. Золото 585 пробы. Фианиты."
+msgstr "This jewelry will suit any lady. 14 karat gold. Fianit."
+
+#: $ item_bookse.name
+msgid "СЕКС-ОБРАЗОВАНИЕ"
+msgstr "SEX EDUCATION"
+
+#: $ item_bookse.desc
+msgid "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
+msgstr "Book about everything related to sex. Works very well for younger generation."
+
+#: $ item_webbook1.name
+msgid "WEB STANDARDS"
+msgstr "WEB STANDARDS"
+
+#: $ item_webbook1.desc
+msgid "Книга рассказывает о способах создавать свои сайты, работающие на любых устройствах."
+msgstr "The book teaches how to create custom sites which will be able to work with any device."
+
+#: $ item_erobook_1.name
+msgid "ЛЮБЯЩАЯ РУБИ"
+msgstr "LOVING RUBY"
+
+#: $ item_erobook_1.desc
+msgid "Роман о запретной любви между секретаршей и её начальником, полный любви, страсти, эмоций и... мистики."
+msgstr "I’ve heard all the rumors: He killed his wife. He’s under house arrest. He’s a vampire. Yes, I know I’m crazy."
+
+#: $ item_erobook_2.name
+msgid "ПРЕМЬЕР-МИНИСТР"
+msgstr "PRIME MINISTER"
+
+#: $ item_erobook_2.desc
+msgid "Новый эротический роман, входящий в Топ-10 лучших романов и новелл США!"
+msgstr "A kinky Prime Minister, a vanilla intern, and a scandal that shouldn't feel so right or cost so much."
+
+#: $ item_erobook_3.name
+msgid "БЫТЬ КУКЛОЙ"
+msgstr "BE A DOLL"
+
+#: $ item_erobook_3.desc
+msgid "В поместье Картера красивые девушки обучаются, чтобы стать идеальными жёнами для самых влиятельных людей этого мира."
+msgstr "At Carter Manor, women are groomed to become the perfect next trophy wife for the most influential and powerful men in the world."
+
+#: $ item_erobook_4.name
+msgid "КНИГА ОРГАЗМОВ"
+msgstr "THE BIG BOOK OF ORGASMS"
+
+#: $ item_erobook_4.desc
+msgid "Что получится, если собрать самые горячие истории об оргазмах от 69 различных авторов?"
+msgstr "What happens when you bring together 69 authors sharing their hottest orgasm stories?"
+
+#: $ item_erobook_5.name
+msgid "ИСТОРИЯ О"
+msgstr "STORY OF O"
+
+#: $ item_erobook_5.desc
+msgid "Это история о доминировании и подчинении. История об одной прекрасной девушке по имени О."
+msgstr "Story of O is a tale of female submission involving a beautiful Parisian fashion photographer named O."
+
+#: $ item_playboy.name
+msgid "ЖУРНАЛ PLAYBOY"
+msgstr "PLAYBOY MAGAZINE"
+
+#: $ item_playboy.desc
+msgid "Мужской эротический журнал. Может быть интересен и некоторым девушкам."
+msgstr "Erotic magazine filled with beautiful women."
+
+#: $ item_roma.name
+msgid "ФИЛЬМ «КОМНАТА В РИМЕ»"
+msgstr "ROOM IN ROME MOVIE"
+
+#: $ item_roma.desc
+msgid "Испанка Альба и русская Наташа знакомятся в Риме и становятся близки в комнате одного из местных отелей."
+msgstr "Two young women (Elena Anaya, Natasha Yarovenko) share a night of passion in Rome."
+
+#: $ item_eromovie.name
+msgid "ФИЛЬМ «КРАСНАЯ ЛИНИЯ»"
+msgstr "“RED LINE”"
+
+#: $ item_eromovie.desc
+msgid "Эротический фильм с красивыми девушками. Сюжет отсутствует."
+msgstr "Erotic movie with two beautiful ladies. No storyline"
+
+#: $ item_momovie.name
+msgid "ФИЛЬМ «ШКОЛЬНИЦЫ»"
+msgstr "PORN MOVIE “SCHOOLGIRL”"
+
+#: $ item_momovie.desc
+msgid "Строгая учительница пытается наказать непослушных школьниц..."
+msgstr "Strict teacher is trying to punish naughty schoolgirls..."
+
+#: $ item_choco.name
+msgid "КОНФЕТЫ"
+msgstr "CANDIES"
+
+#: $ item_choco.desc
+msgid "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
+msgstr "Chocolate candies with brandy. Unique flavor hides the alcoholic taste. Very tasty, very strong."
+
+#: $ item_beer.name
+msgid "БАНКА ПИВА"
+msgstr "CAN OF BEER"
+
+#: $ item_beer.desc
+msgid "Отличное пиво. Вековые традиции в одной алюминиевой банке."
+msgstr "Great beer. Centuries old traditions in a can."
+
+#: $ item_ganja.name
+msgid "ОСОБЫЙ ЗАКАЗ"
+msgstr "SPECIAL DELIVERY"
+
+#: $ item_ganja.desc
+msgid "Небольшой пакетик травки. Легально в некоторых странах."
+msgstr "Small amount of weed. Legal in some countries."
+
+#: $ item_bigganja.name
+msgid "БОЛЬШОЙ ОСОБЫЙ ЗАКАЗ"
+msgstr "SPECIAL DELIVERY, EXXXTRA LAGRE"
+
+#: $ item_bigganja.desc
+msgid "Большой пакет травки. Легально в некоторых странах."
+msgstr "Big package of weed. Legal in some countries."
+
+#: $ item_sleeping.name
+msgid "СНОТВОРНОЕ"
+msgstr "SLEEPING PILLS"
+
+#: $ item_sleeping.desc
+msgid "Натуральное средство, оказывающим успокаивающее влияние на центральную нервную систему"
+msgstr "Made from the natural ingredients, calms the central nervous system."
+
+#: $ item_pills.name
+msgid "СРЕДСТВО ОТ ПОТЕНЦИИ"
+msgstr "ANTI-POTENCY PILLS"
+
+#: $ item_pills.desc
+msgid "Отлично подходит мужчинам, испытывающим перевозбуждение. Применять только по назначению врача."
+msgstr "Great for men who are too easily aroused."
+
+#: $ item_massageoil.name
+msgid "МАССАЖНОЕ МАСЛО"
+msgstr "MASSAGE OIL"
+
+#: $ item_massageoil.desc
+msgid "Масло для массажа с экстрактом зеленого чая обладает дренирующим и антицеллюлитным свойством, выводит излишки жидкости из тканей, уменьшает объемы тела."
+msgstr "Massage oil with green tea extract has draining and anti-cellulite properties, removes excess fluid from the tissues, reduces body volume."
+
+#: $ item_solar.name
+msgid "КРЕМ ДЛЯ ЗАГАРА"
+msgstr "SUNBLOCK"
+
+#: $ item_solar.desc
+msgid "Легкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
+msgstr "Light, easy to use liquid with excellent sun protection and deep moisture effect. Recommended to use at the beach and tanning salons."
+
+#: $ item_soft.name
+msgid "ОБЕЗБАЛИВАЮЩИЙ КРЕМ"
+msgstr "ANESTHETIC LOTION"
+
+#: $ item_soft.desc
+msgid "Крем для массажа с обезболивающим эффектом. Отлично подходит для быстрого восстановления кожи."
+msgstr "Anesthetic lotion for massage. Great for quick skin restoration."
+
+#: $ item_cosm.name
+msgid "НАБОР КОСМЕТИКИ"
+msgstr "COSMETICS SET"
+
+#: $ item_cosm.desc
+msgid "Небольшой набор косметики для повседневного использования."
+msgstr "Small cosmetic set for everyday usage."
+
+#: $ item_ciga.name
+msgid "СИГАРЕТЫ"
+msgstr "CIGARETTES"
+
+#: $ item_ciga.desc
+msgid "Пачка сигарет Lucky Strike. Для настоящих мужчин!"
+msgstr "Pack of smokes, Lucky Strike. For real men!"
+
+#: $ item_photo.name
+msgid "ФОТОАППАРАТ"
+msgstr "CAMERA"
+
+#: $ item_photo.desc
+msgid "Профессиональный фотоаппарат с объективом. Не новый, но в отличном состоянии. Подойдёт как для новичков, так и для профессионалов."
+msgstr "Professional photo camera with a lens. It's not new, but it's in good condition. Will suit both newcomers and professionals alike."
+
+#: $ item_cam.name
+msgid "СКРЫТАЯ КАМЕРА"
+msgstr "HIDDEN CAM"
+
+#: $ item_cam.desc
+msgid "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
+msgstr "Advanced micro camera for a concealed surveillance. It has a radiomodule so it can transfer encrypted digital video stream."
+
+#: $ item_simcard.name
+msgid "SIM-КАРТА"
+msgstr " SIM CARD"
+
+#: $ item_simcard.desc
+msgid "Универсальная sim-карта с интернет-тарифом «всё включено». Используйте на свой страх и риск."
+msgstr "Hacked SIM card with unlimited Internet connection. Use at your own risk."
+
+#: $ item_hc.name
+msgid "СТАЛЬНЫЕ НАРУЧНИКИ"
+msgstr "STEEL HANDCUFFS"
+
+#: $ item_hc.desc
+msgid "Настоящие надёжные наручники из закалённой стали для самого разнообразного применения."
+msgstr "Real stainless steel handcuffs, may be useful in all kinds of scenarios."
+
+#: $ item_att.name
+msgid "ПРИМАНКА ДЛЯ ПАУКОВ"
+msgstr "SPIDER BAIT"
+
+#: $ item_att.desc
+msgid "Экспериментальное средство, позволяющее эффективно приманивать пауков, обитающих в регионах с жарким климатом."
+msgstr "Lures spiders in regions with warm climate."
+
+#: $ pgnach_01.adesc
+msgid "Холодный душ"
+msgstr "DeepL: Cold shower"
+
+#: $ pgnach_02.adesc
+msgid "Бессонная Ночь"
+msgstr "DeepL: Sleepless Night"
+
+#: $ pgnach_03.adesc
+msgid "Поздний ужин"
+msgstr "DeepL: Late dinner"
+
+#: $ pgnach_04.adesc
+msgid "Супермодель"
+msgstr "DeepL: Supermodel"
+
+#: $ pgnach_05.adesc
+msgid "Распятая Порнозвезда"
+msgstr "DeepL: Crucified Porn Star"
+
+#: $ pgnach_06.adesc
+msgid "Госпожа и рабыня 1"
+msgstr "DeepL: Mistress and Slave 1"
+
+#: $ pgnach_07.adesc
+msgid "Госпожа и рабыня 2"
+msgstr "DeepL: Mistress and Slave 2"
+
+#: $ pgnach_08.adesc
+msgid "Приватное шоу"
+msgstr "DeepL: Private show"
+
+#: $ pgnach_09.adesc
+msgid "Клиент Говорит... 1"
+msgstr "DeepL: Client Says... 1"
+
+#: $ pgnach_10.adesc
+msgid "Клиент Говорит... 2"
+msgstr "DeepL: Client Says... 2"
+
+#: $ pgnach_11.adesc
+msgid "Клиент Говорит... 3"
+msgstr "DeepL: Client Says... 3"
+
+#: $ pgnach_12.adesc
+msgid "Озабоченный защитник"
+msgstr "DeepL: Concerned Defender"
+
+#: $ pgnach_13.adesc
+msgid "Твердая штуковина"
+msgstr "DeepL: Hard stuff"
+
+#: $ pgnach_14.adesc
+msgid "Полный рот любви"
+msgstr "DeepL: A mouth full of love"
+
+#: $ pgnach_15.adesc
+msgid "Влажная киска учителя"
+msgstr "DeepL: Wet pussy teacher"
+
+#: $ pgnach_16.adesc
+msgid "Горячая попка, горячий ротик"
+msgstr "DeepL: Hot ass, hot mouth"
+
+#: $ pgnach_17.adesc
+msgid "Счастливый щеночек"
+msgstr "DeepL: Lucky puppy"
+
+#: $ pgnach_18.adesc
+msgid "Самый Лучший Ротик В Мире"
+msgstr "DeepL: The World's Best Mouth"
+
+#: $ pgnach_19.adesc
+msgid "Домашнее Задание Тёти"
+msgstr "DeepL: Auntie's Homework"
+
+#: $ pgnach_20.adesc
+msgid "Мамины Ласковые Ручки"
+msgstr "DeepL: Mom's Soft Hands"
+
+#: $ pgnach_21.adesc
+msgid "Утренний душ"
+msgstr "DeepL: Morning Shower"
+
+#: $ pgnach_22.adesc
+msgid "Решение большой проблемы"
+msgstr "DeepL: Solving a BIG problem"
+
+#: $ pgnach_23.adesc
+msgid "Кнут и пряник"
+msgstr "DeepL: Whip and Gingerbread"
+
+#: $ pgnach_24.adesc
+msgid "Перевозбужденные соседи"
+msgstr "DeepL: Overexcited neighbors"
+
+#: $ pgnach_25.adesc
+msgid "Первый минет сестрёнки"
+msgstr "DeepL: Sister's first blowjob"
+
+#: $ pgnach_26.adesc
+msgid "Оральный паровозик"
+msgstr "DeepL: Oral Steam Train"
+
+#: $ pgnach_27.adesc
+msgid "Мои девочки"
+msgstr "DeepL: My girls"
+
+#: $ pgnach_28.adesc
+msgid "Оральные экзамены"
+msgstr "DeepL: Oral Examination"
+
+#: $ pgnach_29.adesc
+msgid "Кремовая попка"
+msgstr "DeepL: Creamy Butt"
+
+#: $ pgnach_30.adesc
+msgid "Приватное порно"
+msgstr "DeepL: Private porn"
+
+#: $ pgnach_31.adesc
+msgid "Подчинение 1"
+msgstr "DeepL: Submission 1"
+
+#: $ pgnach_32.adesc
+msgid "Подчинение 2"
+msgstr "DeepL: Submission 2"
+
+#: $ pgnach_33.adesc
+msgid "Дрочка за Шмотки: Алиса"
+msgstr "DeepL: Handjob for shopping: Alice"
+
+#: $ pgnach_34.adesc
+msgid "Минет за Шмотки: Алиса"
+msgstr "DeepL: Blowjob for shopping: Alice"
+
+#: $ pgnach_35.adesc
+msgid "Дрочка за Шмотки: Лиза"
+msgstr "DeepL: Handjob for shopping: Lisa"
+
+#: $ pgnach_36.adesc
+msgid "Минет за Шмотки: Лиза"
+msgstr "DeepL: Blowjob for shopping: Lisa"
+
+#: $ pgnach_37.adesc
+msgid "Дрочка за Шмотки: Мама"
+msgstr "DeepL: Handjob for shopping: Mom"
+
+#: $ pgnach_38.adesc
+msgid "Минет за Шмотки: Мама"
+msgstr "DeepL: Blowjob for shopping: Mom"
+
+#: $ pgnach_39.adesc
+msgid "МЖМ с Тётей #1"
+msgstr "DeepL: MFM with Aunt #1"
+
+#: $ pgnach_40.adesc
+msgid "Откуда родился"
+msgstr "DeepL: Where was he born from"
+
+#: $ pgnach_41.adesc
+msgid "Как делается руками"
+msgstr "DeepL: How to do it with hands"
+
+#: $ pgnach_42.adesc
+msgid "Как делается ртом"
+msgstr "DeepL: How to do it with your mouth"
+
+#: $ pgnach_43.adesc
+msgid "Взрослый секс"
+msgstr "DeepL: Adult sex"
+
+#: $ pgnach_44.adesc
+msgid "Порно-сериал с Мамой #1"
+msgstr "DeepL: Porn series with Mom #1"
+
+#: $ pgnach_45.adesc
+msgid "Порно-сериал с Мамой #2"
+msgstr "DeepL: Porn series with Mom #2"
+
+#: $ pgnach_46.adesc
+msgid "Утренний кремпай"
+msgstr "DeepL: Morning creampie"
+
+#: $ pgnach_47.adesc
+msgid "Горячий и страстный душ"
+msgstr "DeepL: Hot and passionate showers"
+
+#: $ pgnach_48.adesc
+msgid "Мамин БДСМ"
+msgstr "DeepL: Mom's BDSM"
+
+#: $ pgnach_49.adesc
+msgid "Сиськи, сперма, Эрик"
+msgstr "DeepL: Boobs, sperm and Eric"
+
+#: $ pgnach_50.adesc
+msgid "МЖМ с Тётей #2"
+msgstr "DeepL: MFM with Aunt #2"
+
+#: $ pgnach_51.adesc
+msgid "Контактный секс-урок"
+msgstr "DeepL: Contact Sex Lesson"
+
+#: $ pgnach_52.adesc
+msgid "Кремпай напоказ"
+msgstr "DeepL: Creampie for show"
+
+#: $ pgnach_53.adesc
+msgid "Сексуальный душ с Мамой"
+msgstr "DeepL: Sexy showers with Mom"
+
+#: $ pgnach_54.adesc
+msgid "Первый горловой с Мамой"
+msgstr "DeepL: First Deep Throat with Mom"
+
+#: $ pgnach_55.adesc
+msgid "А вот и киска!"
+msgstr "DeepL: Here comes the pussy!"
+
+#: $ pgnach_56.adesc
+msgid "Кнут и Минет"
+msgstr "DeepL: The Whip and Blowjob"
+
+#: $ pgnach_57.adesc
+msgid "Одного раза мало"
+msgstr "DeepL: One time is not enough"
+
+#: $ pgnach_58.adesc
+msgid "Приятно смотреть с Мамой"
+msgstr "DeepL: It's nice to watch with Mom"
+
+#: $ pgnach_59.adesc
+msgid "Фотосессия Мамы"
+msgstr "DeepL: Mom's photo shoot"
+
+#: $ pgnach_60.adesc
+msgid "Фотосессия Мамы и Киры"
+msgstr "DeepL: Mom and Kira's photo shoot"
+
+#: $ pgnach_61.adesc
+msgid "Тренировка сестёр"
+msgstr "DeepL: Lesbian Sisters"
+
+#: $ pgnach_62.adesc
+msgid "Семейный порнофильм 1"
+msgstr "DeepL: Family porn 1"
+
+#: $ pgnach_63.adesc
+msgid "Испытание минетом"
+msgstr "DeepL: Testing with a blowjob"
+
+#: $ pgnach_64.adesc
+msgid "Семейный порнофильм 2"
+msgstr "DeepL: Family porn 2"
+
+#: $ pgnach_65.adesc
+msgid "Рот на замке"
+msgstr "DeepL: Mouth on lock"
+
+#: $ pgnach_66.adesc
+msgid "Наказание с удовольствием"
+msgstr "DeepL: Punishment with pleasure"
+
+#: $ pgnach_67.adesc
+msgid "Плохой озабоченный братик"
+msgstr "DeepL: Bad horny brother"
+
+#: $ pgnach_68.adesc
+msgid "Наказание и Секс 1"
+msgstr "DeepL: Punishment and Sex 1"
+
+#: $ pgnach_69.adesc
+msgid "Наказание и Секс 2"
+msgstr "DeepL: Punishment and Sex 2"
+
+#: $ pgnach_70.adesc
+msgid "Семейный порнофильм 3"
+msgstr "DeepL: Family porn 3"
+
+#: $ pgnach_71.adesc
+msgid "Семейный порнофильм 4"
+msgstr "DeepL: Family porn 4"
+
+#: $ pgnach_72.adesc
+msgid "Лесбо-порно Мамы"
+msgstr "DeepL: Lesbo-porn Moms"
+
+#: $ pgnach_73.adesc
+msgid "Секс-защитник от пауков"
+msgstr "DeepL: Sex protector from spiders"
+
+#: $ pgnach_74.adesc
+msgid "Анальная наездница"
+msgstr "DeepL: Anal Cowgirl"
+
+#: $ pgnach_75.adesc
+msgid "Веб-шоу с младшей"
+msgstr "DeepL: Web Show with Little Sister"
+
+#: $ pgnach_76.adesc
+msgid "Секс-игрушки Алисы"
+msgstr "DeepL: Alice's sex toys"
+
+#: $ pgnach_77.adesc
+msgid "Алиса или Катя"
+msgstr "DeepL: Alice or Kate"
+
+#: $ pgnach_78.adesc
+msgid "Благодарность брату"
+msgstr "DeepL: Thank you brother"
+
+#: $ pgnach_79.adesc
+msgid "Спермодоилка"
+msgstr "DeepL: Sperm milking"
+
+#: $ pgnach_80.adesc
+msgid "Массаж языком"
+msgstr "DeepL: Tongue massage"
+
+#: $ pgnach_81.adesc
+msgid "Алиса и минет у ТВ"
+msgstr "DeepL: Alice and a blowjob at the TV"
+
+#: $ pgnach_82.adesc
+msgid "Манекен для практики"
+msgstr "DeepL: Dummy for practice"
+
+#: $ pgnach_83.adesc
+msgid "Минет перед сном"
+msgstr "DeepL: Blowjob before bedtime"
+
+#: $ pgnach_84.adesc
+msgid "Эро-массаж после работы"
+msgstr "DeepL: Ero-massage after work"
+
+#: $ pgnach_85.adesc
+msgid "Запасной способ"
+msgstr "DeepL: The alternative method"
+
+#: $ pgnach_86.adesc
+msgid "Озабоченная мать и сын"
+msgstr "DeepL: Horny mother and son"
+
+#: $ pgnach_87.adesc
+msgid "Секс на завтрак"
+msgstr "DeepL: Sex on breakfast"
+
+#: $ pgnach_88.adesc
+msgid "Вечерние мамины планы"
+msgstr "DeepL: Mom's evening plans"
+
+#: $ pgnach_89.adesc
+msgid "Секс-йога"
+msgstr "DeepL: Sex Yoga"
+
+#: $ pgnach_90.adesc
+msgid "Идеальный любовник"
+msgstr "DeepL: The Perfect Lover"
+
+#: $ pgnach_91.adesc
+msgid "Плохая мамочка 1"
+msgstr "DeepL: Bad Mommy 1"
+
+#: $ pgnach_92.adesc
+msgid "Плохая мамочка 2"
+msgstr "DeepL: Bad Mommy 2"
+
+#: $ pgnach_93.adesc
+msgid "Брат, сестра и Оливия"
+msgstr "DeepL: Brother, sister and Olivia"
+
+#: $ spravka_01.nm
+msgid "Управление"
+msgstr "Game control"
+
+#: $ spravka_02.nm
+msgid "Настроение"
+msgstr "Mood"
+
+#: $ spravka_03.nm
+msgid "Прохождение"
+msgstr "DeepL: Walkthrough"
+
+#: $ spravka_04.nm
+msgid "Авторитет"
+msgstr "Authority"
+
+#: $ spravka_05.nm
+msgid "Пропуск времени"
+msgstr "DeepL: Skipping time"
+
+#: $ spravka_06.nm
+msgid "Пропуск дней"
+msgstr "DeepL: Skipping days"
+
+#: $ spravka_07.nm
+msgid "Шансы"
+msgstr "DeepL: Chances"
+
+#: $ stat_mom.namechar
+msgid "Мама (Анна)"
+msgstr "Mom (Ann)"
+
+#: $ stat_liza.namechar
+msgid "Лиза"
+msgstr "Lisa"
+
+#: $ stat_alice.namechar
+msgid "Алиса"
+msgstr "Alice"
+
+#: $ stat_kira.namechar
+msgid "Кира"
+msgstr "Kira"
+
+#: $ stat_eric.namechar
+msgid "Эрик"
+msgstr "Eric"
+
+#: $ stat_kate.namechar
+msgid "Катя"
+msgstr "Kate"
+
+#: $ stat_olivia.namechar
+msgid "Оливия"
+msgstr "Olivia"
+
+#: $ stat_eva.namechar
+msgid "Ева"
+msgstr "Eve"
+
+#: $ stat_vicky.namechar
+msgid "Вика"
+msgstr "Vicky"
+
+#: $ stat_diana.namechar
+msgid "Диана"
+msgstr "Diane"
+
+#: $ stat_momk.namechar
+msgid "Мама Кати"
+msgstr "Kate's mother"
+
+#: $ walk_1.walk
+msgid "Скрытые камеры"
+msgstr "Hidden cams"
+
+#: $ walk_2.walk
+msgid "Наставник"
+msgstr "Mentor"
+
+#: $ walk_3.walk
+msgid "Особые книги"
+msgstr "Special books"
+
+#: $ walk_4.walk
+msgid "Дым сигарет"
+msgstr "Cigarette smoke"
+
+#: $ walk_5.walk
+msgid "Одноклассник"
+msgstr "Schoolmate"
+
+#: $ walk_6.walk
+msgid "Школьница"
+msgstr "Schoolgirl"
+
+#: $ walk_7.walk
+msgid "Купальник"
+msgstr "Swimsuit"
+
+#: $ walk_8.walk
+msgid "Арахнофобия"
+msgstr "Arachnophobia"
+
+#: $ walk_9.walk
+msgid "Блог"
+msgstr "Blog"
+
+#: $ walk_10.walk
+msgid "Тусовщица"
+msgstr "Party girl"
+
+#: $ walk_11.walk
+msgid "Альфа"
+msgstr "Alpha"
+
+#: $ walk_12.walk
+msgid "Контроль"
+msgstr "Control"
+
+#: $ walk_13.walk
+msgid "Любимая тётя"
+msgstr "Favorite aunt"
+
+#: $ walk_14.walk
+msgid "Травка"
+msgstr "Weed"
+
+#: $ walk_15.walk
+msgid "Коварный план"
+msgstr "Cunning plan"
+
+#: $ walk_16.walk
+msgid "Жертва"
+msgstr "Sacrifice"
+
+#: $ walk_17.walk
+msgid "Бумажник"
+msgstr "Wallet"
+
+#: $ walk_18.walk
+msgid "Карьера"
+msgstr "New job"
+
+#: $ walk_19.walk
+msgid "Побочный эффект"
+msgstr "Side effect"
+
+#: $ walk_20.walk
+msgid "Смена ролей"
+msgstr "Changing roles"
+
+#: $ walk_21.walk
+msgid "Горячий кофе"
+msgstr "Hot Coffee"
+
+#: $ walk_22.walk
+msgid "Оливия"
+msgstr "Olivia"
